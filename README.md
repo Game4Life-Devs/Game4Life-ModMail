@@ -1,5 +1,5 @@
 # Game4Life-ModMail
-A custom bot for the server Game4Life!
+A modmail bot, what did you expect?
 
 ## Commands
 **m.setup** - Sets up a category named "Modmail" in your server.
