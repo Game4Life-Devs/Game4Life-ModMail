@@ -1,5 +1,5 @@
 {
-    "token": "YOUR TOKEN",
-    "prefix": "m.",
+    "token": "Your token",
+    "prefix": "Your Prefix",
     "ServerID": "Your server ID"
 }
