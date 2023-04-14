@@ -263,3 +263,4 @@ client.on("message", async message => {
 })
 
 client.login(token)
+// done in discord.js v12
